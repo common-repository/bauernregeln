@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bauernregeln\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-05 00:22+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_c;_n:1,2;_ngettext:1,2;_x:2c,1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: bauernregeln.php:43 bauernregeln.php:587
+msgid ""
+"Shows a german weather proverb or country saying, called Bauernregel, for "
+"every month."
+msgstr ""
+
+#: bauernregeln.php:68
+msgid "Settings"
+msgstr ""
+
+#: bauernregeln.php:314
+msgid "Custom proverbs"
+msgstr ""
+
+#: bauernregeln.php:336
+msgid "Display only custom proverbs"
+msgstr ""
+
+#: bauernregeln.php:394 bauernregeln.php:409
+msgid "Settings &rsaquo; Bauernregeln"
+msgstr ""
+
+#: bauernregeln.php:395 bauernregeln.php:590
+msgid "Bauernregeln"
+msgstr ""
+
+#: bauernregeln.php:448
+msgid "Upload custom proverbs"
+msgstr ""
+
+#: bauernregeln.php:452
+msgid ""
+"You can upload a CSV File (comma separated values) that contains your "
+"proverbs."
+msgstr ""
+
+#: bauernregeln.php:455
+msgid "Example"
+msgstr ""
+
+#: bauernregeln.php:463
+msgid "Choose a file from your harddisk"
+msgstr ""
+
+#: bauernregeln.php:467
+msgid "Upload"
+msgstr ""
+
+#: bauernregeln.php:477 bauernregeln.php:603
+msgid "January"
+msgstr ""
+
+#: bauernregeln.php:478 bauernregeln.php:604
+msgid "February"
+msgstr ""
+
+#: bauernregeln.php:479 bauernregeln.php:605
+msgid "March"
+msgstr ""
+
+#: bauernregeln.php:480 bauernregeln.php:606
+msgid "April"
+msgstr ""
+
+#: bauernregeln.php:481 bauernregeln.php:607
+msgid "May"
+msgstr ""
+
+#: bauernregeln.php:482 bauernregeln.php:608
+msgid "June"
+msgstr ""
+
+#: bauernregeln.php:483 bauernregeln.php:609
+msgid "July"
+msgstr ""
+
+#: bauernregeln.php:484 bauernregeln.php:610
+msgid "August"
+msgstr ""
+
+#: bauernregeln.php:485 bauernregeln.php:611
+msgid "September"
+msgstr ""
+
+#: bauernregeln.php:486 bauernregeln.php:612
+msgid "October"
+msgstr ""
+
+#: bauernregeln.php:487 bauernregeln.php:613
+msgid "November"
+msgstr ""
+
+#: bauernregeln.php:488 bauernregeln.php:614
+msgid "December"
+msgstr ""
+
+#: bauernregeln.php:492
+msgid "Delete Custom proverbs"
+msgstr ""
+
+#: bauernregeln.php:499
+msgid "Select all"
+msgstr ""
+
+#: bauernregeln.php:504
+msgid "Month"
+msgstr ""
+
+#: bauernregeln.php:507
+msgid "Proverb"
+msgstr ""
+
+#: bauernregeln.php:526
+msgid "Select"
+msgstr ""
+
+#: bauernregeln.php:535
+msgid "Delete Selected"
+msgstr ""
+
+#: bauernregeln.php:653
+msgid "Title"
+msgstr ""
+
+#: bauernregeln.php:658
+#, php-format
+msgid ""
+"To show the current month in the title, add <b>%s</b> anywhere in the title "
+"text."
+msgstr ""
+
+#: bauernregeln.php:661
+msgid "Examples"
+msgstr ""
+
+#: bauernregeln.php:665
+msgid "or"
+msgstr ""
